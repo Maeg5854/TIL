@@ -7,14 +7,14 @@ repository after reading Simon Wilson's [hacker new post][1], and he was
 apparently inspired by Josh Branchaud's [TIL collection][2].
 
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [Query String 소개](nodejs/08_QueryString.md) - Fri Feb 11 00:28:46 2022 +0900
 - [# Express](nodejs/06_Express.md) - Sun Jan 23 23:17:37 2022 +0900
-- [# 동기와 비동기](nodejs/05_SynchronizationAsynchronization.md) - Sun Jan 23 23:17:37 2022 +0900
 
 ### Categories
 
@@ -32,6 +32,7 @@ _8 TILs and counting..._
 - [# 동기와 비동기](nodejs/05_SynchronizationAsynchronization.md)
 - [# Express](nodejs/06_Express.md)
 - [Template](nodejs/07_Express_templateEngine.md)
+- [Query String 소개](nodejs/08_QueryString.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til
